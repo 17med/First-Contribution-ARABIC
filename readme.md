@@ -2310,7 +2310,7 @@
 	<tr>
         <td align="center" width="600">
 		 &nbsp;&nbsp
-            <a href="[https://github.com/Dev-AhmedOmer](https://github.com/17med)">
+            <a href="https://github.com/17med">
                   <img src="https://avatars.githubusercontent.com/u/66746240?v=4" width="50">
                 <br>
                 <h2>17med</h2>
