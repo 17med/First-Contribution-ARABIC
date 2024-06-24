@@ -2313,7 +2313,7 @@
             <a href="https://github.com/Dev-AhmedOmer">
                   <img src="https://avatars.githubusercontent.com/u/66746240?v=4" width="50">
                 <br>
-                <h2>17med/h2>
+                <h2>17med</h2>
             </a>
             <br>            
             <table>
