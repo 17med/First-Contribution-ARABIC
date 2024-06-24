@@ -2307,12 +2307,11 @@
                     <!--// GITHUB //-->
                 </tr>
             </table> 
-		<tr> <a href="https://github.com/Mohammad-Taha-Programmer">
+		<tr> <td><a href="https://github.com/Mohammad-Taha-Programmer">
                             <img src="https://avatars.githubusercontent.com/u/66746240?v=4" width="30">
                         </a>
-			<td>17med</td>
-	    
-        </tr>
+			17med
+	   </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
 
