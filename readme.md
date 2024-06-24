@@ -2321,7 +2321,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/17med">
-                            <img src="https://avatars.githubusercontent.com/u/66746240?v=4" width="30">
+                            <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
